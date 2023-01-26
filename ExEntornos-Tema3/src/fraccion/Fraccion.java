@@ -5,7 +5,7 @@ public class Fraccion {
 	// Numerador
 	private int num;
 
-	// Denominador
+	// Denominador 
 	private int den;
 
 	// Constructor por defecto
