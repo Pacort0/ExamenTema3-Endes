@@ -6,7 +6,7 @@ public class Fraccion {
 	private int num;
 
 	// Denominador
-	private int den;
+	private int den; 
 
 	// Constructor por defecto
 
